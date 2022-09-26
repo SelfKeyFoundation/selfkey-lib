@@ -63,7 +63,7 @@
     "prettier": "1.15.1",
     "pretty-quick": "2.0.1",
     "sinon": "8.0.2",
-    "snyk": "1.269.0"
+    "snyk": "1.1012.0"
   },
   "lint-staged": {
     "*.js": [
